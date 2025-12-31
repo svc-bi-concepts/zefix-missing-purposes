@@ -12,3 +12,7 @@
 - Use type hints where appropriate
 - Include error handling and logging
 
+## GitHub Organization
+- Always push repositories to the organization: https://github.com/orgs/svc-bi-concepts
+- Do not create repositories under personal account
+- Use GitHub CLI (`gh`) for repository management when possible
