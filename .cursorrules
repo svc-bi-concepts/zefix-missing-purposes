@@ -1,0 +1,14 @@
+# Project Preferences
+
+## Python Environment
+- Always use `uv` for Python package management
+- Always use a virtual environment (venv) for Python projects
+- Activate venv with: `source .venv/bin/activate`
+- Create venv with: `uv venv`
+- Install packages with: `uv pip install <package>`
+
+## Code Style
+- Follow Python best practices and PEP 8
+- Use type hints where appropriate
+- Include error handling and logging
+
